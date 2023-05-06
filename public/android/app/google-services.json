@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "640247567108",
+    "project_id": "fluttero-65b88",
+    "storage_bucket": "fluttero-65b88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640247567108:android:48348ecf29847dea287651",
+        "android_client_info": {
+          "package_name": "com.example.my_etlab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640247567108-3qddjt9403t1rd0r65fivqpll8432mbj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhmTdFuNbNBU7n_NfbU-Kgv5ueiVtQgX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640247567108-3qddjt9403t1rd0r65fivqpll8432mbj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
